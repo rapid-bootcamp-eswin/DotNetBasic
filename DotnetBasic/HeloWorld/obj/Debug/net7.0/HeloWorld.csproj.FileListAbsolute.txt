@@ -1,0 +1,15 @@
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\bin\Debug\net7.0\HeloWorld.exe
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\bin\Debug\net7.0\HeloWorld.deps.json
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\bin\Debug\net7.0\HeloWorld.runtimeconfig.json
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\bin\Debug\net7.0\HeloWorld.dll
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\bin\Debug\net7.0\HeloWorld.pdb
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\obj\Debug\net7.0\HeloWorld.csproj.AssemblyReference.cache
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\obj\Debug\net7.0\HeloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\obj\Debug\net7.0\HeloWorld.AssemblyInfoInputs.cache
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\obj\Debug\net7.0\HeloWorld.AssemblyInfo.cs
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\obj\Debug\net7.0\HeloWorld.csproj.CoreCompileInputs.cache
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\obj\Debug\net7.0\HeloWorld.dll
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\obj\Debug\net7.0\refint\HeloWorld.dll
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\obj\Debug\net7.0\HeloWorld.pdb
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\obj\Debug\net7.0\HeloWorld.genruntimeconfig.cache
+D:\dotnetjava\dotnet\basic\DotnetBasic\HeloWorld\obj\Debug\net7.0\ref\HeloWorld.dll

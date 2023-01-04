@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="OOP\" />
+    <None Remove="ObjectType\" />
+    <None Remove="InheritanceType\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="OOP\" />
+    <Folder Include="ObjectType\" />
+    <Folder Include="InheritanceType\" />
+  </ItemGroup>
+</Project>
